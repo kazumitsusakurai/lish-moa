@@ -39,7 +39,7 @@ I used normal denoising autoencoder instead of the swapping method, and I concat
 ## Weighted Loss
 
 I used weighted loss which weights targets that only occur few times in the train data (I used 40).
-It significantly improved CV score (about -0.0003) but public test score wasn't improved. In order to overfit to the train data I blended both weighted-loss models and non-weighted-loss models.
+It significantly improved CV score (about -0.0003) but public test score wasn't improved. In order to avoid overfitting to the train data I blended both weighted-loss models and non-weighted-loss models.
 
 ## Blending
 
