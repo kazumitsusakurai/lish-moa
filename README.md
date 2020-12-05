@@ -4,8 +4,8 @@
 
 # Reference
 
-* Summary
-* Final Submission
+* [Summary](https://www.kaggle.com/c/lish-moa/discussion/201565)
+* [Final Submission](https://www.kaggle.com/kazumitsusakurai/submission-for-moa)
 
 # Demo
 
